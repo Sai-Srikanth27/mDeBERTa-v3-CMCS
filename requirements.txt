@@ -1,0 +1,7 @@
+transformers
+openprompt
+torch
+sentencepiece
+pandas
+scikit-learn
+tqdm
